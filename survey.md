@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue
+Favorite food: steak
+Favorite musician/band: adele
+Favorite movie: the age of adaline
+Requested grade in the course: 100
